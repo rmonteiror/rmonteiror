@@ -1,15 +1,30 @@
 <h1 align="center">Oi 👋, Eu sou Ramon Monteiro</h1>
 <h3 align="center">💻 Entusiasta do desenvolvimento de software | Aspirante a Desenvolvedor Full Stack</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, C, Javascript**
+- 🎯 Objetivo: Estou buscando oportunidades de aprendizado em desenvolvimento de software, onde consiga aprimorar minhas habilidades técnicas, colaborar em projetos desafiadores.
 
-- 💬 Me pergunte sobre **SQL, Power BI, HTML, Excel, Word**
+- 🌱 O que estou aprendendo: Atualmente, estou aprofundando meus conhecimentos em tecnologias Full Stack, incluindo:
+
+-Frontend: HTML, CSS, JavaScript
+
+-Backend: Node.js, Python
+
+-Banco de dados: MySQL
+
+- ⚙️ Meus projetos:
+Aqui no meu GitHub, você encontrará projetos que desenvolvi para praticar minhas habilidades e aprender mais sobre o ciclo completo de desenvolvimento de aplicações.
+
+- 💡 Interesses: Desenvolvimento Full Stack, boas práticas de programação, metodologias ágeis e novas tecnologias.
 
 - 📫 Você me acha através do e-mail **ramon_89@hotmail.com.br**
 
 - 📄 Possuo experiência em suporte técnico, resolução de problemas gerais e atendimento internacional [https://www.linkedin.com/in/ramon-monteiro](https://www.linkedin.com/in/ramon-monteiro)
 
 - ⚡ Fato engraçado **Eu as vezes confundo português com inglês**
+
+- 🚀 Pronto para aprender e crescer na área de tecnologia!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
