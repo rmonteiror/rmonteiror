@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Ramon Monteiro</h1>
-<h3 align="center">Apaixonado pelo desenvolvimento full stack no mundo digital</h3>
+<h3 align="center">💻 Entusiasta do desenvolvimento de software | Aspirante a Desenvolvedor Full Stack</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, C, Javascript**
 
