@@ -22,9 +22,9 @@
 - ⚙️ **Expertise:** Microsoft 365, Teams, VPN, Citrix, IBM Notes, ServiceNow, SAP, and remote-access platforms.  
 - 🌎 **Languages:**  
   🇧🇷 **Portuguese** – Native  
-  🇬🇧 **English** – Advanced (C2, EF SET Certificate)  
+  🇬🇧 **English** – Advanced (C1)  
   🇪🇸 **Spanish** – Intermediate (B2)  
-  🇩🇪 **German** – Basic (A2 Level)
+  🇩🇪 **German** – Basic (A2-B1 Level)
 
 ---
 
