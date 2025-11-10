@@ -16,21 +16,25 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎯 **Goal:** Continue growing as an **IT Support Specialist**, improving user experience, process automation, and system performance.  
-- 🧩 **Experience:** Over 3 years in **technical support**, troubleshooting, and service desk operations with a **95% first-contact resolution rate**.  
-- 🏅 **Achievements:** Consistently ranked among the **Top 10 support analysts** for three months due to fast, high-quality service.  
-- 🌐 **Multilingual support:** English, Spanish, and Portuguese.  
-- ⚙️ **Main tools:** Microsoft Office 365, Teams, VPN, Citrix, IBM Notes, ServiceNow, SAP, and remote-access software.
+- 🎯 **Goal:** Keep growing as an **IT Support and Technical Operations Specialist**, improving end-user experience, process efficiency, and system reliability.  
+- 🧩 **Experience:** 3+ years in **technical support, troubleshooting, and service desk operations**, achieving a **95% first-contact resolution rate**.  
+- 🏅 **Achievements:** Consistently ranked among the **Top 10 support analysts** for three consecutive months due to performance and efficiency.  
+- ⚙️ **Expertise:** Microsoft 365, Teams, VPN, Citrix, IBM Notes, ServiceNow, SAP, and remote-access platforms.  
+- 🌎 **Languages:**  
+  🇧🇷 **Portuguese** – Native  
+  🇬🇧 **English** – Advanced (C2, EF SET Certificate)  
+  🇪🇸 **Spanish** – Intermediate (B2)  
+  🇩🇪 **German** – Basic (A2 Level)
 
 ---
 
 ### 🛠️ Technical Skills
 **Operating Systems:** Windows, Linux (basic administration)  
-**Networking:** TCP/IP, VPN, DNS, DHCP, and routing fundamentals  
+**Networking:** TCP/IP, VPN, DNS, DHCP, routing fundamentals  
 **Applications & Platforms:** Microsoft 365, Azure, Google Workspace  
-**Security:** User access control, data protection, endpoint security  
-**Automation & Scripting:** Python basics, PowerShell, batch scripting  
-**Monitoring & Ticketing:** ServiceNow, Zabbix, Grafana (intro level)
+**Security:** User access control, data protection, endpoint protection  
+**Automation & Scripting:** Python (basics), PowerShell, batch scripting  
+**Monitoring & Ticketing:** ServiceNow, Zabbix, Grafana (introductory level)
 
 ---
 
@@ -38,8 +42,8 @@
 - Incident and problem management  
 - Process optimization and automation  
 - Technical documentation and knowledge base creation  
-- Remote and multilingual support  
-- End-user satisfaction and SLA compliance
+- Remote and multilingual user support  
+- SLA monitoring and customer satisfaction improvement  
 
 ---
 
@@ -72,3 +76,7 @@
 ---
 
 <!-- Future improvements:
+- Add PowerShell or Python automation mini-projects
+- Include screenshots of dashboards or scripts
+- Add certification badges (CCNA, GDPR, EF SET)
+-->
