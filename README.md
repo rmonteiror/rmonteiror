@@ -23,8 +23,8 @@
 - 🌎 **Languages:**  
   🇧🇷 **Portuguese** – Native  
   🇬🇧 **English** – Advanced (C1)  
-  🇪🇸 **Spanish** – Intermediate (B2)  
-  🇩🇪 **German** – Basic (A2-B1 Level)
+  🇪🇸 **Spanish** – Advanced (B2)  
+  🇩🇪 **German** – Intermediate (B1 Level)
 
 ---
 
