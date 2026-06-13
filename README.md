@@ -26,7 +26,7 @@ Building expertise in Linux, Automation, Infrastructure Engineering and DevOps.
 
 # 👨‍💻 About Me
 
-IT Support professional with 3+ years of experience supporting enterprise environments, resolving technical incidents, troubleshooting systems, and improving operational efficiency.
+IT Support professional with 4+ years of experience supporting enterprise environments, resolving technical incidents, troubleshooting systems, and improving operational efficiency.
 
 Currently focused on developing strong foundations in Linux, Networking, Automation, Backend Development, Cloud Technologies and DevOps practices.
 
