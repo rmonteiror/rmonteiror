@@ -26,7 +26,9 @@ Building expertise in Linux, Automation, Infrastructure Engineering and DevOps.
 
 # 👨‍💻 About Me
 
-IT Support professional with 4+ years of experience supporting enterprise environments, resolving technical incidents, troubleshooting systems, and improving operational efficiency.
+IT professional with 4+ years of experience in technical support, IT operations, incident management and process improvement within enterprise environments.
+
+Throughout my career, I have worked closely with automation, system administration, troubleshooting, technical documentation and operational processes, while continuously developing skills in backend development, Linux, networking, cloud technologies and DevOps practices.
 
 Currently focused on developing strong foundations in Linux, Networking, Automation, Backend Development, Cloud Technologies and DevOps practices.
 
@@ -90,18 +92,11 @@ Currently focused on developing strong foundations in Linux, Networking, Automat
 
 #  Professional Background
 
-### Technical Support & Operations
+IT professional with 4+ years of experience in enterprise environments and a strong interest in infrastructure, automation and software development.
 
-- 3+ years supporting enterprise environments
-- 95% First Contact Resolution Rate
-- Top 10 Support Analyst for 3 consecutive months
-- Incident Management
-- Problem Resolution
-- End User Support
-- Technical Documentation
-- SLA Compliance
+Currently building expertise in Linux, Python, Cloud and DevOps technologies.
 
-### Technologies Used Professionally
+## Enterprise Technologies
 
 - Microsoft 365
 - Microsoft Teams
@@ -109,8 +104,18 @@ Currently focused on developing strong foundations in Linux, Networking, Automat
 - SAP
 - IBM Notes
 - ServiceNow
+- Active Directory
 - VPN Solutions
 - Remote Access Platforms
+
+## Infrastructure & Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- VPN
+- Routing Fundamentals
+- Network Troubleshooting
 
 ---
 
