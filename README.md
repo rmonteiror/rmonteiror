@@ -76,7 +76,7 @@ Currently focused on developing strong foundations in Linux, Networking, Automat
 
 ---
 
-# 🌐 Infrastructure & Networking
+#  Infrastructure & Networking
 
 - TCP/IP
 - DNS
@@ -88,7 +88,7 @@ Currently focused on developing strong foundations in Linux, Networking, Automat
 
 ---
 
-# 💼 Professional Background
+#  Professional Background
 
 ### Technical Support & Operations
 
@@ -114,7 +114,7 @@ Currently focused on developing strong foundations in Linux, Networking, Automat
 
 ---
 
-# 🛠️ Technologies
+#  Technologies
 
 <p align="left">
 
@@ -140,9 +140,9 @@ Currently focused on developing strong foundations in Linux, Networking, Automat
 
 ---
 
-# 🚀 Portfolio Roadmap
+#  Portfolio Roadmap
 
-## 🖥️ Asset Inventory System
+##  Asset Inventory System
 
 Enterprise asset management platform designed to manage:
 
@@ -167,7 +167,7 @@ Python • FastAPI • PostgreSQL • Docker • GitHub Actions
 
 ---
 
-## 🎫 Help Desk Platform
+##  Help Desk Platform
 
 Corporate ticket management system.
 
@@ -196,7 +196,7 @@ Python • FastAPI • PostgreSQL • Docker • GitHub Actions
 
 ---
 
-## 📊 Infrastructure Monitoring Platform
+##  Infrastructure Monitoring Platform
 
 Infrastructure monitoring solution.
 
@@ -250,7 +250,7 @@ Docker • GitHub Actions • AWS / Azure • Terraform • Kubernetes
 
 ---
 
-# 🌎 Languages
+#  Languages
 
 | Language | Level |
 |-----------|---------|
@@ -261,7 +261,7 @@ Docker • GitHub Actions • AWS / Azure • Terraform • Kubernetes
 
 ---
 
-# 🎯 Career Goal
+#  Career Goal
 
 IT Support
 
@@ -287,17 +287,17 @@ DevOps
 
 ---
 
-# 📫 Contact
+#  Contact
 
-📧 Email
+ Email
 
 rnmnteiro@outlook.com
 
-💼 LinkedIn
+ LinkedIn
 
 https://www.linkedin.com/in/ramonmonteiro1
 
-🐙 GitHub
+ GitHub
 
 https://github.com/rmonteiror
 
@@ -305,7 +305,7 @@ https://github.com/rmonteiror
 
 <div align="center">
 
-### ⚡ Learning every day and building a career in Infrastructure, Cloud and DevOps.
+###  Learning every day and building a career in Infrastructure, Cloud and DevOps.
 
 </div>
 ```
