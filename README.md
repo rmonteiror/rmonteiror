@@ -32,7 +32,7 @@ Currently focused on developing strong foundations in Linux, Networking, Automat
 
 ---
 
-# 🚀 Current Learning Path
+#  Current Learning Path
 
 ## Phase 1 — Foundations
 
