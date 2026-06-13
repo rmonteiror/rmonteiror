@@ -10,15 +10,15 @@ Building expertise in Linux, Automation, Infrastructure Engineering and DevOps.
 
 <p align="center">
   <a href="https://github.com/rmonteiror">
-    <img src="https://img.shields.io/badge/GitHub-rmonteiror-181717?logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/ramonmonteiro1">
-    <img src="https://img.shields.io/badge/LinkedIn-ramonmonteiro1-0A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:rnmnteiro@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?logo=microsoftoutlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
 </p>
 
