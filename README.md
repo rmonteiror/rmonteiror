@@ -1,82 +1,312 @@
+```md
 <h1 align="center">Hi 👋, I'm Ramon Monteiro</h1>
-<h3 align="center">💻 IT Support & Technical Operations Specialist</h3>
+
+<h3 align="center">
+IT Support • Infrastructure • Automation • Cloud
+</h3>
+
+<p align="center">
+Building expertise in Linux, Automation, Infrastructure Engineering and DevOps.
+</p>
 
 <p align="center">
   <a href="https://github.com/rmonteiror">
-    <img src="https://img.shields.io/badge/GitHub-rmonteiror-181717?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-rmonteiror-181717?logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/ramonmonteiro1">
-    <img src="https://img.shields.io/badge/LinkedIn-ramonmonteiro1-0A66C2?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-ramonmonteiro1-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:rnmnteiro@outlook.com">
-    <img src="https://img.shields.io/badge/Email-rnmnteiro%40outlook.com-0078D4?logo=microsoftoutlook" />
+    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?logo=microsoftoutlook&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎯 **Goal:** Keep growing as an **IT Support and Technical Operations Specialist**, improving end-user experience, process efficiency, and system reliability.  
-- 🧩 **Experience:** 3+ years in **technical support, troubleshooting, and service desk operations**, achieving a **95% first-contact resolution rate**.  
-- 🏅 **Achievements:** Consistently ranked among the **Top 10 support analysts** for three consecutive months due to performance and efficiency.  
-- ⚙️ **Expertise:** Microsoft 365, Teams, VPN, Citrix, IBM Notes, ServiceNow, SAP, and remote-access platforms.  
-- 🌎 **Languages:**  
-  🇧🇷 **Portuguese** – Native  
-  🇬🇧 **English** – Advanced (C1)  
-  🇪🇸 **Spanish** – Advanced (B2)  
-  🇩🇪 **German** – Intermediate (B1 Level)
+# 👨‍💻 About Me
+
+IT Support professional with 3+ years of experience supporting enterprise environments, resolving technical incidents, troubleshooting systems, and improving operational efficiency.
+
+Currently focused on developing strong foundations in Linux, Networking, Automation, Backend Development, Cloud Technologies and DevOps practices.
 
 ---
 
-### 🛠️ Technical Skills
-**Operating Systems:** Windows, Linux (basic administration)  
-**Networking:** TCP/IP, VPN, DNS, DHCP, routing fundamentals  
-**Applications & Platforms:** Microsoft 365, Azure, Google Workspace  
-**Security:** User access control, data protection, endpoint protection  
-**Automation & Scripting:** Python (basics), PowerShell, batch scripting  
-**Monitoring & Ticketing:** ServiceNow, Zabbix, Grafana (introductory level)
+# 🚀 Current Learning Path
+
+## Phase 1 — Foundations
+
+- Linux
+- Bash / Shell Script
+- Git & GitHub
+- Python
+- SQL
+- PostgreSQL
 
 ---
 
-### 🧠 Focus Areas
-- Incident and problem management  
-- Process optimization and automation  
-- Technical documentation and knowledge base creation  
-- Remote and multilingual user support  
-- SLA monitoring and customer satisfaction improvement  
+## Phase 2 — Backend & Automation
+
+- FastAPI
+- Docker
 
 ---
 
-### 📊 GitHub Stats
+## Phase 3 — Modern Development
+
+- JavaScript
+- TypeScript
+
+---
+
+## Phase 4 — Long-Term Specialization
+
+- Java
+- Spring Boot
+
+---
+
+## Future Focus
+
+- Azure
+- AWS
+- CI/CD
+- Terraform
+- Kubernetes
+
+---
+
+# 🌐 Infrastructure & Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- HTTPS
+- VPN
+- Firewalls
+- Load Balancers
+
+---
+
+# 💼 Professional Background
+
+### Technical Support & Operations
+
+- 3+ years supporting enterprise environments
+- 95% First Contact Resolution Rate
+- Top 10 Support Analyst for 3 consecutive months
+- Incident Management
+- Problem Resolution
+- End User Support
+- Technical Documentation
+- SLA Compliance
+
+### Technologies Used Professionally
+
+- Microsoft 365
+- Microsoft Teams
+- Citrix
+- SAP
+- IBM Notes
+- ServiceNow
+- VPN Solutions
+- Remote Access Platforms
+
+---
+
+# 🛠️ Technologies
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmonteiror&show_icons=true&hide_rank=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmonteiror&show_icons=true&layout=compact" height="165" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
+
 </p>
 
 ---
 
-### 🧰 Tools & Technologies
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" title="PowerShell" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" title="Networking" width="40" height="40"/>
-</p>
+# 🚀 Portfolio Roadmap
+
+## 🖥️ Asset Inventory System
+
+Enterprise asset management platform designed to manage:
+
+- Users
+- Computers
+- Notebooks
+- Printers
+- Software Licenses
+- Maintenance History
+- Reports
+
+### Stack
+
+Python • FastAPI • PostgreSQL • Docker • GitHub Actions
+
+### Demonstrates
+
+- Database Design
+- REST APIs
+- Backend Architecture
+- Data Modeling
 
 ---
 
-### 💬 Let's Connect
-- 📧 **Email:** rnmnteiro@outlook.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/ramonmonteiro1](https://www.linkedin.com/in/ramonmonteiro1)  
-- ⚡ **Fun fact:** I sometimes mix Portuguese and English — but I always fix my syntax errors 😄  
+## 🎫 Help Desk Platform
+
+Corporate ticket management system.
+
+### Features
+
+- Authentication
+- Ticket Management
+- SLA Tracking
+- Priorities
+- Comments
+- Notifications
+- Dashboards
+
+Integrated with Asset Inventory System.
+
+### Stack
+
+Python • FastAPI • PostgreSQL • Docker • GitHub Actions
+
+### Demonstrates
+
+- Business Rules
+- Corporate Workflows
+- Backend Development
+- System Integration
 
 ---
 
-<!-- Future improvements:
-- Add PowerShell or Python automation mini-projects
-- Include screenshots of dashboards or scripts
-- Add certification badges (CCNA, GDPR, EF SET)
--->
+## 📊 Infrastructure Monitoring Platform
+
+Infrastructure monitoring solution.
+
+### Features
+
+- Host Monitoring
+- CPU Monitoring
+- RAM Monitoring
+- Disk Usage
+- Services Monitoring
+- Alerts
+- Historical Metrics
+
+### Stack
+
+Python • Linux • FastAPI • PostgreSQL • Docker
+
+### Demonstrates
+
+- Linux Administration
+- Networking
+- Monitoring
+- Automation
+- Infrastructure Operations
+- DevOps Fundamentals
+
+---
+
+## ☁️ Cloud Infrastructure & Deployment
+
+Production deployment environment for all projects.
+
+### Features
+
+- CI/CD
+- Automated Deployments
+- Containers
+- Monitoring
+- Infrastructure as Code
+
+### Stack
+
+Docker • GitHub Actions • AWS / Azure • Terraform • Kubernetes
+
+### Demonstrates
+
+- Cloud Computing
+- DevOps Practices
+- Infrastructure Automation
+- Production Deployments
+
+---
+
+# 🌎 Languages
+
+| Language | Level |
+|-----------|---------|
+| 🇧🇷 Portuguese | Native |
+| 🇬🇧 English | C1 |
+| 🇪🇸 Spanish | B2 |
+| 🇩🇪 German | B1 |
+
+---
+
+# 🎯 Career Goal
+
+IT Support
+
+⬇️
+
+Infrastructure
+
+⬇️
+
+Linux Administration
+
+⬇️
+
+Automation
+
+⬇️
+
+Cloud Engineering
+
+⬇️
+
+DevOps
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+rnmnteiro@outlook.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/ramonmonteiro1
+
+🐙 GitHub
+
+https://github.com/rmonteiror
+
+---
+
+<div align="center">
+
+### ⚡ Learning every day and building a career in Infrastructure, Cloud and DevOps.
+
+</div>
+```
