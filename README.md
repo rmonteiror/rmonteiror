@@ -255,17 +255,6 @@ Docker • GitHub Actions • AWS / Azure • Terraform • Kubernetes
 
 ---
 
-#  Languages
-
-| Language | Level |
-|-----------|---------|
-| 🇧🇷 Portuguese | Native |
-| 🇬🇧 English | C1 |
-| 🇪🇸 Spanish | B2 |
-| 🇩🇪 German | B1 |
-
----
-
 #  Career Goal
 
 IT Support
